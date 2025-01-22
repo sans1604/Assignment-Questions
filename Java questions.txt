@@ -226,6 +226,4 @@ Assignment of Jan22
 
 
 1. The function takes two integrals m and n as arguments, You are required to obtain the total of all integers ranging between 1 to n (both inclusive) which are not divisible by m. You must also return the distinction between the sum of integers not divisible by m with the sum of integers divisible by m. Assumption m > 0 and n>0 Sum lies within the integral range.
-2. Write a java program to sum all the even digits in a number.
-3. Design a method to print all the elements of a 2d array.
-4. Design a method to print all the array size present inside 2d array.
+2.design method to print all the array size present inside 2D array.
